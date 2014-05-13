@@ -1,0 +1,12 @@
+{
+    "name": "My_Chat",
+    "version": "0.0.0",
+    "description": "Chat using node, angular and socket.io",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest",
+        "ejs" : "latest"
+    },
+    "author": "Veronica Villegas"
+}
